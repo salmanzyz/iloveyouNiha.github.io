@@ -29,7 +29,7 @@ body {
 
 .button:hover {
   background-color: #000000;
-  color: #ffe3e1;
+  color: #800000;
   border: 2px solid #ff9494;
   box-shadow: 1px 1px 2px #ffe3e1;
 }
