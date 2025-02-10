@@ -2,7 +2,7 @@ body {
   text-align: center;
   margin-top: 30px;
   font-family: "Papyrus";
-  background-color: ##ff428e;
+  background-color: #ff008e;
   color: #FFFFFF;
 }
 
@@ -13,7 +13,6 @@ img {
 }
 
 #valentineQuestion {
-  font-size: 80px;
   margin-bottom: 20px;
 }
 .answerButton {
