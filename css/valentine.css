@@ -3,7 +3,7 @@ body {
   margin-top: 30px;
   font-family: "Courier";
   background-color: #fff5e4;
-  background-image: url('path-to-your-image.jpg'); /* Add your image URL here */
+  background-image: url(gopo.png); /* Add your image URL here */
   background-size: cover; /* Ensures the image covers the entire body */
   background-position: center center; /* Centers the background image */
   background-repeat: no-repeat; /* Prevents repeating the image */
