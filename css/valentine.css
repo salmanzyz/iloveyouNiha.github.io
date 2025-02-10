@@ -3,10 +3,10 @@ body {
   margin-top: 30px;
   font-family: "Courier";
   background-color: #fff5e4;
-  background-image: url(gopo.png); /* Add your image URL here */
-  background-size: cover; /* Ensures the image covers the entire body */
-  background-position: center center; /* Centers the background image */
-  background-repeat: no-repeat; /* Prevents repeating the image */
+  background-image: url(gopo.png); 
+  background-size: cover; 
+  background-position: center center; 
+  background-repeat: no-repeat;
   color: #ff9494;
 }
 
